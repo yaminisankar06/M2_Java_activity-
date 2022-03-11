@@ -1,0 +1,12 @@
+class CricketData {
+    String tename;
+    String inname;
+    int runs;
+
+CricketData(String tename,String inname,int runs)
+{
+ this.tename=tename;
+ this.inname=inname;
+ this.runs=runs;
+}
+}
